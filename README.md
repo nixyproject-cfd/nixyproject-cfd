@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="1000" height="400" src="https://raw.githubusercontent.com/nixyproject-cfd/vip/main/nixy.jpg">
-</p>
-
 <div align="center">
     <img src="https://github.com/nixyproject-cfd/vip/blob/main/nixy.jpg">
 </div>

@@ -1,10 +1,7 @@
-<div align="center">
-    <img src="https://github.com/nixyproject-cfd/vip/blob/main/nixy.jpg">
-</div>
+<p align="center">
+  <img width="auto" height="auto" src="https://github.com/nixyproject-cfd/vip/blob/main/nixy.jpg">
+</p>
 
-<h1 align="center">
-  <b>Hello I'm<b> <a href="https://t.me/nixy_store" target="blank">NIXY</a> 
-</h1>
 <p align="center">
   <img width="auto" height="auto" src="https://github-readme-stats.vercel.app/api?username=nixyproject-cfd&show_icons=true&theme=chartreuse-dark&locale=id">
 </p>

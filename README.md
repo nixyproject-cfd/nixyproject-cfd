@@ -18,3 +18,6 @@
   <img width="auto" height="auto" src='https://github-profile-trophy.vercel.app/?username=nixyproject-cfd&theme=monokai&row=1&column=5&no-frame=true'
 </p>
 
+<p align="center">
+  <img width="auto" height="auto" src='https://skillicons.dev/icons?i=java,linux,js,html,css,python,php,bash,azure,docker,gcp'
+</p>

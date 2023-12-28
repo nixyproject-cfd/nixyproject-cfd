@@ -10,7 +10,6 @@
 </p>
 <p align="center">
 <a href="https://github.com/nixyproject-cfd/vip"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=nixyproject-cfd&repo=vip&theme=chartreuse-dark"></a>
-<a href="https://github.com/nixyproject-cfd/blanterorion"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=nixyproject-cfd&repo=blanterorion&theme=chartreuse-dark"></a>
 </p>
 <p align="center">
   <img width="auto" height="auto" src='https://github-profile-trophy.vercel.app/?username=nixyproject-cfd&theme=monokai&row=1&column=5&no-frame=true'

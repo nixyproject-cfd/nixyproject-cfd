@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="auto" height="auto" src="https://github.com/nixyproject-cfd/vip/blob/main/nixy.jpg">
+  <img width="auto" height="auto" src="https://raw.githubusercontent.com/nixyproject-cfd/nixyproject-cfd/main/IMAGE%20NIXY/nixy.jpg">
 </p>
 
 <p align="center">

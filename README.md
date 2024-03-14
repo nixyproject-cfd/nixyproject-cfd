@@ -2,9 +2,7 @@
   <img width="auto" height="auto" src="https://raw.githubusercontent.com/nixyproject-cfd/nixyproject-cfd/main/IMAGE%20NIXY/nixy.jpg">
 </p>
 
-<p align="center">
-  <img width="auto" height="auto" src="https://raw.githubusercontent.com/nixyproject-cfd/nixyproject-cfd/main/IMAGE%20NIXY/Profile.jpg">
-</p>
+
 
 <p align="center">
   <img width="auto" height="auto" src="https://github-readme-stats.vercel.app/api?username=nixyproject-cfd&show_icons=true&theme=chartreuse-dark&locale=id">
